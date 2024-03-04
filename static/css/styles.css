@@ -1,0 +1,41 @@
+.header {
+	background-image: url('../img/IMG-20240303-WA0008.jpg'); 
+	background-size: cover; 
+	background-position: center; 
+	height: 100vh; 
+	display: flex; 
+	justify-content: center; 
+	align-items: center; 
+	color: #fff; 
+	text-align: center;
+}
+
+.section-title {
+	font-size: 36px;
+	margin-bottom: 50px;
+	font-weight: bold;
+}
+
+.service-icon {
+	font-size: 40px;
+	color: #ff6b6b;
+}
+
+.testimonial-icon {
+	font-size: 40px;
+	color: #45aaf2;
+}
+
+.navbar {
+	background-color: gray;
+	padding: 20px;
+}
+.navbar-brand, .navbar-nav .nav-link {
+	color: #fff;
+}
+.navbar-nav .nav-link:hover {
+	color: #f8f9fa;
+}
+.navbar-toggler {
+	border-color: #fff;
+}
